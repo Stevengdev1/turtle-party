@@ -1,3 +1,7 @@
+# Turtle Party Project
+# 11-08-2023
+# by Steven D. Garcia
+
 import turtle
 turtle.color("red")
 
